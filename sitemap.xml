@@ -3,12 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kickass.id/posts/film-the-hitman-s-bodyguard-2017/</loc>
+    <lastmod>2017-09-04T17:39:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kickass.id/posts/apa-kabar/</loc>
+    <lastmod>2017-09-04T15:07:19+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kickass.id/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kickass.id/</loc>
+    <lastmod>2017-09-04T17:39:34+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kickass.id/posts/</loc>
+    <lastmod>2017-09-04T17:39:34+08:00</lastmod>
     <priority>0</priority>
   </url>
   
