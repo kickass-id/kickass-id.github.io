@@ -20,5 +20,14 @@ Nah, sekarang kamu cukup mengecek situs ini. Cepat, halal, gratis.
 Wah, bajakan dong! Situs ini tidak mengandung konten bajakan, dan tidak berisi tautan ke situs bajakan.</description>
     </item>
     
+    <item>
+      <title>DMCA</title>
+      <link>https://kickass.id/dmca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kickass.id/dmca/</guid>
+      <description>Kickass.ID is an Online Service Provider under Title II of the Digital Millennium Copyright Act, 17 U.S.C. Section 512 (“DMCA”). Kickass.ID respects the legitimate rights of copyright owners, expects its users to do the same, and has adopted an efficient notice and take down procedure as required by the DMCA and described herein. This policy is intended to guide copyright owners in utilizing that procedure, and also to guide users and webmasters in restoring access to websites or content that are disabled due to a mistake.</description>
+    </item>
+    
   </channel>
 </rss>
